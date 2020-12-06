@@ -1,8 +1,8 @@
 package exemple;
 
 import bandeau.Bandeau;
-import java.awt.Color;
-import java.awt.Font;
+import java.awt.Color;// importe les couleurs   
+import java.awt.Font; // importe les polices
 
 public class ExempleDUtilisation {
     
